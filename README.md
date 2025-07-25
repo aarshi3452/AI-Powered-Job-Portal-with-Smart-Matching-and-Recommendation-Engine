@@ -1,0 +1,2 @@
+# AI-Powered-Job-Portal-with-Smart-Matching-and-Recommendation-Engine
+A machine learning-based job portal that intelligently matches candidates to job openings using smart filters, keyword analysis, and a recommendation engine. This project improves the traditional job search experience by analyzing candidate profiles and job descriptions to deliver personalized job recommendations and better match accuracy.
